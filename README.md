@@ -29,6 +29,6 @@
   },
   {
     "متن": "ریاضی 7 - فصل 1 - بخش 8 : راهبرد روش های نمادین",
-    "فیلم": "https://as2.cdn.asset.aparat.com/aparat-video/373ccf2c7b069dea3680a75bf781b76a17379465-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6Ijc1M2ZiNGIwMTFjNTNkODIyNDU4OTcwYzNlMzdiMTFmIiwiZXhwIjoxNjQ4MDU4MzUyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.CodP9UN9gZV0Ars-Q06HTI6NYTNMUpzwa-eJNt5cywA"
+    "فیلم": "https://s22.picofile.com/file/8448548950/%D9%81%DB%8C%D9%84%D9%85_%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D9%BE%D8%B1%DB%8C_%D8%B3%D8%A7.jpg"
   }
 ]
