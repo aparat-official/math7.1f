@@ -1,7 +1,7 @@
 [
   {
     "متن": "ریاضی 7 - فصل 1 : راهبردهای حل مسئله",
-    "فیلم": "https://hajifirouz4.cdn.asset.aparat.com/aparat-video/4d21ccc40db35c28950004993aee506943701843-1080p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjIyN2Y0OTA1MjFhNzViMWE3ZDVlYzkzMzdjZDRiZWRhIiwiZXhwIjoxNjQ4MTU4MTAyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.pEZVcYkQIulTly7xR0C6zGjvadGBC3_8ELtZqtqdOgA"
+    "فیلم": "https://live.cdn.asset.aparat.com/9d01dfd6f69706a3b3e92778983749fd/livehls/heiatealamdar_s6Yq8.m3u8?s=b3J8k5wvXWBWAJOQc80Jxg&e=1648782939&ip=188.209.39.166"
   },
   {
     "متن": "ریاضی 7 - فصل 1 - بخش 1 : راهبرد رسم شکل",
